@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sana_projects\\Sana04\\Sana04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84C46375-B3FA-46F7-9F32-AD29CA0B98C2}|Sana04\\Sana04.csproj|d:\\sana_projects\\sana04\\sana04\\sana04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C46375-B3FA-46F7-9F32-AD29CA0B98C2}|Sana04\\Sana04.csproj|solutionrelative:sana04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C46375-B3FA-46F7-9F32-AD29CA0B98C2}|Sana04\\Sana04.csproj|d:\\sana_projects\\sana04\\sana04\\sana04\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C46375-B3FA-46F7-9F32-AD29CA0B98C2}|Sana04\\Sana04.csproj|solutionrelative:sana04\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C46375-B3FA-46F7-9F32-AD29CA0B98C2}|Sana04\\Sana04.csproj|d:\\sana_projects\\sana04\\sana04\\sana04\\mydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C46375-B3FA-46F7-9F32-AD29CA0B98C2}|Sana04\\Sana04.csproj|solutionrelative:sana04\\mydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C46375-B3FA-46F7-9F32-AD29CA0B98C2}|Sana04\\Sana04.csproj|d:\\sana_projects\\sana04\\sana04\\sana04\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C46375-B3FA-46F7-9F32-AD29CA0B98C2}|Sana04\\Sana04.csproj|solutionrelative:sana04\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C46375-B3FA-46F7-9F32-AD29CA0B98C2}|Sana04\\Sana04.csproj|d:\\sana_projects\\sana04\\sana04\\sana04\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C46375-B3FA-46F7-9F32-AD29CA0B98C2}|Sana04\\Sana04.csproj|solutionrelative:sana04\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\Sana_projects\\Sana04\\Sana04\\Sana04\\Currency.cs",
+              "RelativeDocumentMoniker": "Sana04\\Currency.cs",
+              "ToolTip": "D:\\Sana_projects\\Sana04\\Sana04\\Sana04\\Currency.cs*",
+              "RelativeToolTip": "Sana04\\Currency.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:16:23.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Sana_projects\\Sana04\\Sana04\\Sana04\\Product.cs",
+              "RelativeDocumentMoniker": "Sana04\\Product.cs",
+              "ToolTip": "D:\\Sana_projects\\Sana04\\Sana04\\Sana04\\Product.cs*",
+              "RelativeToolTip": "Sana04\\Product.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswEIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:16:07.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDate.cs",
+              "DocumentMoniker": "D:\\Sana_projects\\Sana04\\Sana04\\Sana04\\MyDate.cs",
+              "RelativeDocumentMoniker": "Sana04\\MyDate.cs",
+              "ToolTip": "D:\\Sana_projects\\Sana04\\Sana04\\Sana04\\MyDate.cs*",
+              "RelativeToolTip": "Sana04\\MyDate.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:15:48.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "D:\\Sana_projects\\Sana04\\Sana04\\Sana04\\Airplane.cs",
+              "RelativeDocumentMoniker": "Sana04\\Airplane.cs",
+              "ToolTip": "D:\\Sana_projects\\Sana04\\Sana04\\Sana04\\Airplane.cs*",
+              "RelativeToolTip": "Sana04\\Airplane.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwEYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:14:51.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sana_projects\\Sana04\\Sana04\\Sana04\\Program.cs",
+              "RelativeDocumentMoniker": "Sana04\\Program.cs",
+              "ToolTip": "D:\\Sana_projects\\Sana04\\Sana04\\Sana04\\Program.cs*",
+              "RelativeToolTip": "Sana04\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:13:52.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
